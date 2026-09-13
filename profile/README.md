@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://corteus.com">
-    <img src="./assets/corteus-github.png" alt="Corteus — AI-native technical venture partner" width="100%">
+    <img src="../assets/corteus-github.png" alt="Corteus — AI-native technical venture partner" width="100%">
   </a>
 </p>
 
